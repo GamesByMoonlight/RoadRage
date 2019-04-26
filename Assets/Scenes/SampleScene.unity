@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 170076734}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657868, g: 0.4964127, b: 0.57481724, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -179,7 +179,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &300744176
 GameObject:
@@ -400,7 +400,7 @@ Transform:
   - {fileID: 1900706592}
   - {fileID: 407834901}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &661244655
 GameObject:
@@ -674,7 +674,7 @@ Transform:
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1271362997
 GameObject:
@@ -1284,6 +1284,75 @@ Transform:
   m_Father: {fileID: 629712801}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &685699045167016852
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5369952674059864751, guid: 70f40d619f8c26c44bb65db2f3e00ea4,
+        type: 3}
+      propertyPath: m_Name
+      value: racer
+      objectReference: {fileID: 0}
+    - target: {fileID: 5369952674059441807, guid: 70f40d619f8c26c44bb65db2f3e00ea4,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 373.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5369952674059441807, guid: 70f40d619f8c26c44bb65db2f3e00ea4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5369952674059441807, guid: 70f40d619f8c26c44bb65db2f3e00ea4,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -58.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5369952674059441807, guid: 70f40d619f8c26c44bb65db2f3e00ea4,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5369952674059441807, guid: 70f40d619f8c26c44bb65db2f3e00ea4,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5369952674059441807, guid: 70f40d619f8c26c44bb65db2f3e00ea4,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5369952674059441807, guid: 70f40d619f8c26c44bb65db2f3e00ea4,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5369952674059441807, guid: 70f40d619f8c26c44bb65db2f3e00ea4,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5369952674059441807, guid: 70f40d619f8c26c44bb65db2f3e00ea4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5369952674059441807, guid: 70f40d619f8c26c44bb65db2f3e00ea4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5369952674059441807, guid: 70f40d619f8c26c44bb65db2f3e00ea4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 70f40d619f8c26c44bb65db2f3e00ea4, type: 3}
 --- !u!1001 &1972248230770906146
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1334,7 +1403,7 @@ PrefabInstance:
     - target: {fileID: 1972248232660956219, guid: 33eb5bf69826ba8489b4f9ead1cdf67b,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 1972248232660956219, guid: 33eb5bf69826ba8489b4f9ead1cdf67b,
         type: 3}

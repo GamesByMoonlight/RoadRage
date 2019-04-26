@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: da31e24a2a1746044bd711c6afb8d9c0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: car-body
+    100002: carInterior
+    100004: centerComputer
+    100006: chassis-2
+    100008: frontlights
+    100010: gearshift
+    100012: hood-chassis
+    100014: leftdoor
+    100016: leftfrontwheel
+    100018: leftGun
+    100020: leftreadwheel
+    100022: missilebox
+    100024: //RootNode
+    100026: rearLights
+    100028: rearspoiler
+    100030: rightComputer
+    100032: rightdoor
+    100034: rightfrontwheel
+    100036: rightgun
+    100038: rightrearwheel
+    100040: Sun
+    400000: car-body
+    400002: carInterior
+    400004: centerComputer
+    400006: chassis-2
+    400008: frontlights
+    400010: gearshift
+    400012: hood-chassis
+    400014: leftdoor
+    400016: leftfrontwheel
+    400018: leftGun
+    400020: leftreadwheel
+    400022: missilebox
+    400024: //RootNode
+    400026: rearLights
+    400028: rearspoiler
+    400030: rightComputer
+    400032: rightdoor
+    400034: rightfrontwheel
+    400036: rightgun
+    400038: rightrearwheel
+    400040: Sun
+    2100000: gun-black
+    2100002: No Name
+    2100004: gear
+    2100006: missile-gray1
+    2100008: missile-gray2
+    2100010: missile-lightgray1
+    2100012: missile-warheadRed
+    2100014: missile-lightgray2
+    2100016: missile-lightgray3
+    2100018: missile-gray3
+    2100020: carbonExterior
+    2100022: racerback-MAT
+    2100024: racerhood
+    2100026: plates
+    2100028: rearlights-MAT
+    2100030: chassis
+    2100032: aluminumFloor
+    2100034: blackLeather
+    2100036: frontlights
+    2300000: car-body
+    2300002: carInterior
+    2300004: centerComputer
+    2300006: chassis-2
+    2300008: frontlights
+    2300010: gearshift
+    2300012: hood-chassis
+    2300014: leftdoor
+    2300016: leftfrontwheel
+    2300018: leftGun
+    2300020: leftreadwheel
+    2300022: missilebox
+    2300024: rearLights
+    2300026: rearspoiler
+    2300028: rightComputer
+    2300030: rightdoor
+    2300032: rightfrontwheel
+    2300034: rightgun
+    2300036: rightrearwheel
+    3300000: car-body
+    3300002: carInterior
+    3300004: centerComputer
+    3300006: chassis-2
+    3300008: frontlights
+    3300010: gearshift
+    3300012: hood-chassis
+    3300014: leftdoor
+    3300016: leftfrontwheel
+    3300018: leftGun
+    3300020: leftreadwheel
+    3300022: missilebox
+    3300024: rearLights
+    3300026: rearspoiler
+    3300028: rightComputer
+    3300030: rightdoor
+    3300032: rightfrontwheel
+    3300034: rightgun
+    3300036: rightrearwheel
+    4300000: leftfrontwheel
+    4300002: leftreadwheel
+    4300004: rightrearwheel
+    4300006: rightComputer
+    4300008: centerComputer
+    4300010: gearshift
+    4300012: missilebox
+    4300014: rightgun
+    4300016: leftGun
+    4300018: rightfrontwheel
+    4300020: rightdoor
+    4300022: leftdoor
+    4300024: rearspoiler
+    4300026: hood-chassis
+    4300028: chassis-2
+    4300030: car-body
+    4300032: rearLights
+    4300034: carInterior
+    4300036: frontlights
+    10800000: Sun
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: b6220083e11277a46a0e2fb33082bc96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminumFloor
+    second: {fileID: 2100000, guid: 7e987e09b3265ba48a12e9d70617de65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blackLeather
+    second: {fileID: 2100000, guid: 803a534274ef83a41969ce7aae9cd709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carbonExterior
+    second: {fileID: 2100000, guid: e96c3aa5f5da8a441911ab5dbf04ea70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chassis
+    second: {fileID: 2100000, guid: c7ad93a9065282b4b8d40937e67db929, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frontlights
+    second: {fileID: 2100000, guid: 293bebcaebd09cf4791319d8042b6c14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gear
+    second: {fileID: 2100000, guid: 58dd19adc5cd7114ca9919c8ee30fe32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun-black
+    second: {fileID: 2100000, guid: 8b283df2914c1b34a9e49a6494837c44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: missile-gray1
+    second: {fileID: 2100000, guid: 83d0bf3cc79752c4ab7ae046abd122f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: missile-gray2
+    second: {fileID: 2100000, guid: a819b0825f05fe54cae2b936b43f7c74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: missile-gray3
+    second: {fileID: 2100000, guid: 638542d4f4e640240a6deeedb3142bf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: missile-lightgray1
+    second: {fileID: 2100000, guid: f25d8a5b5799ccc42a3379639084850f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: missile-lightgray2
+    second: {fileID: 2100000, guid: d6cb10bd6c0dd344db04506b4fc2db23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: missile-lightgray3
+    second: {fileID: 2100000, guid: 6ae68a08a33ca27468792ec5230df54c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: missile-warheadRed
+    second: {fileID: 2100000, guid: 3a7a08e608a48164f9f3fe385533e553, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plates
+    second: {fileID: 2100000, guid: 80096b15050cf9843b292d949e6f954b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: racerback-MAT
+    second: {fileID: 2100000, guid: 5bf4469ed12daf046a644f9d9d700dce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: racerhood
+    second: {fileID: 2100000, guid: 2bbd96120ca49994caa49668a665fba2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rearlights-MAT
+    second: {fileID: 2100000, guid: 5972581251db0404db56f29e23e951e6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
